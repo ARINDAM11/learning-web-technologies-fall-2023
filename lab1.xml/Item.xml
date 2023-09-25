@@ -1,0 +1,27 @@
+<items>
+   <item pl="1">
+      <id> 11 </id>
+      <name> Samsung </name>
+      <unit >  35000 </unit>
+      <stock> 50 </stocks>
+      <status> 1 </status>
+    </item>
+
+      <item pl="2">
+      <id> 20 </id>
+      <name> HTC </name>
+      <unit > 65300 </unit>
+      <stock> 35 </stocks>
+      <status> 0 </status>
+     </item>
+
+       <item pl="3">
+     <id> 23 </id>
+      <name> Nokia </name>
+      <unit> 25100   </unit>
+      <stock> 100 </stocks>
+      <status> 1 </status>
+    </item>
+</items>
+
+        

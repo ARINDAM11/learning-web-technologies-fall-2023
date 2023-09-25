@@ -1,0 +1,35 @@
+<Officers>
+  <officer ps="1"> 
+    <sl.no> 23 </sl.no>
+    <name> Jhon Carter </name>
+    <admission date>
+      <date> 25 </date>
+      <month> 12 </month>
+      <year> 2015 </year>
+    </admission date>
+  </officer>
+
+     <officer ps="2">
+       <sl.no> 29 </sl.no>
+       <name> Bob Marshal </name>
+       <admission date> 
+          <date> 13 </date>
+            <month> 01 </month>
+            <year> 1999 </year>
+      </admission date>
+    </officer>
+
+         <officer ps="3"> 
+          <sl.no>  35 </sl.no>
+          <name>  Clerk  Kent </name>
+          <admission date> 
+             <date> 17 </date>
+             <month> 06 </month>
+            <year> 2005 </year>
+          </admission date>
+        </officer>
+
+</Officers>
+
+
+
