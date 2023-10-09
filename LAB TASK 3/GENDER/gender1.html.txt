@@ -1,0 +1,23 @@
+<html>
+    <head>
+    </head>
+    
+    <body>
+        <table>
+            <tr>  
+                <td>      <form method="GET" action="Gender1.0.php" enctype="">
+            <fieldset>
+                <legend>Gender:</legend>
+                <input type="radio" name="gender" value=""/> Male
+                <input type="radio" name="gender" value=""/> Female
+                <input type="radio" name="gender" value=""/> Other 
+                <hr>
+                           <input type="Submit" name="Submit" value="Submit"/>
+           </fieldset>
+        </td>
+        </tr>
+
+        </form>
+    </table>
+    </body>
+</html>

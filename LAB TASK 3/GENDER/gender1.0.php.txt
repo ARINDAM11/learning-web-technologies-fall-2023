@@ -1,0 +1,9 @@
+<?php 
+    $gender = $_REQUEST['gender']; 
+    
+    if($gender == "") {
+        echo "Value is Null ..";
+    }else{
+       echo "Value is inserted";
+    }
+?>

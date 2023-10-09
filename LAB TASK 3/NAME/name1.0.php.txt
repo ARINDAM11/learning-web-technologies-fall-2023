@@ -1,0 +1,10 @@
+<?php
+    $username = "$_REQUEST['username'];
+
+if($username =="") {
+   echo "value is Null..";
+    } else{
+   echo "User name is inserted";
+   }
+?>
+
