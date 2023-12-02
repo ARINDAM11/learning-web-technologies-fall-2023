@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <title>Shop Management System</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Shop Management System</h1>
+        <div id="loginForm">
+            <h2>Login</h2>
+            <label for="username">Username:</label>
+            <input type="text" id="username" placeholder="Enter your username">
+            <label for="password">Password:</label>
+            <input type="password" id="password" placeholder="Enter your password">
+            <button onclick="login()">Login</button>
+        </div>
+        <div id="registerForm">
+            <h2>Register New Employee</h2>
+            <label for="newEmployeeName">Employee Name:</label>
+            <input type="text" id="newEmployeeName" placeholder="Enter employee name">
+            <label for="newEmployeeContact">Contact Number:</label>
+            <input type="text" id="newEmployeeContact" placeholder="Enter contact number">
+            <label for="newEmployeePassword">Password:</label>
+            <input type="password" id="newEmployeePassword" placeholder="Enter password">
+            <button onclick="register()">Register</button>
+        </div>
+        <div id="updateForm">
+            <h2>Update Employee Info</h2>
+            <label for="updateEmployeeName">Employee Name:</label>
+            <input type="text" id="updateEmployeeName" placeholder="Enter new employee name">
+            <label for="updateEmployeeContact">Contact Number:</label>
+            <input type="text" id="updateEmployeeContact" placeholder="Enter new contact number">
+            <button onclick="update()">Update</button>
+        </div>
+    </div>
+</body>
+</html>
